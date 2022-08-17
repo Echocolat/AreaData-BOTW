@@ -1,0 +1,934 @@
+[
+  {
+    "Area Number": 0,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 1,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 2,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 3,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 4,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 5,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 6,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 7,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 8,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 9,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 10,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 11,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 12,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 13,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 14,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 15,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 16,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 17,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 18,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 19,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 20,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 21,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 22,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 23,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 24,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 25,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 26,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 27,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 28,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 29,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 30,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 31,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 32,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 33,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 34,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 35,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 36,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 37
+  },
+  {
+    "Area Number": 38,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 39,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 40,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 41,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 42,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 43
+  },
+  {
+    "Area Number": 44,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 45,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 46,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 47,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 48,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 49,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 50,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 51,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 52,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 53
+  },
+  {
+    "Area Number": 54
+  },
+  {
+    "Area Number": 55
+  },
+  {
+    "Area Number": 56,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 57
+  },
+  {
+    "Area Number": 58
+  },
+  {
+    "Area Number": 59,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 60,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 61,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 62,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 63,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 64,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 65,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 66,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 67,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 68,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 69,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 70,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 71,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 72,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 73,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 74,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 75,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 76,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 77,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 78,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 79,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10
+  },
+  {
+    "Area Number": 80,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 81,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 82,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 15,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 83,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 84,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 85,
+    "Rain Bonus Material 1": "Tireless Frog",
+    "Value 1": 20,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 15,
+    "Rain Bonus Material 4": "Hearty Lizard",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 86,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 87,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 88,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 89,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Tireless Frog",
+    "Value 2": 5,
+    "Rain Bonus Material 3": "Hot-Footed Frog",
+    "Value 3": 20,
+    "Rain Bonus Material 4": "Amber",
+    "Value 4": 10,
+    "Rain Bonus Material 5": "Hearty Lizard",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 90,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 10,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 10,
+    "Rain Bonus Material 3": "Hearty Lizard",
+    "Value 3": 5
+  },
+  {
+    "Area Number": 91,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 92,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 15,
+    "Rain Bonus Material 2": "Amber",
+    "Value 2": 15
+  },
+  {
+    "Area Number": 93,
+    "Rain Bonus Material 1": "Opal",
+    "Value 1": 5,
+    "Rain Bonus Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Rain Bonus Material 3": "Amber",
+    "Value 3": 10
+  }
+]
