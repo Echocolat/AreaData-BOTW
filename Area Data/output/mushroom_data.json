@@ -1,0 +1,848 @@
+[
+  {
+    "Area Number": 0,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 10,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 1,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  },
+  {
+    "Area Number": 2,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Silent Shroom",
+    "Value 3": 3,
+    "Mushroom 4": "Razorshroom",
+    "Value 4": 1,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 3,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 2,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5,
+    "Mushroom 4": "Big Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 4,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Zapshroom",
+    "Value 2": 20,
+    "Mushroom 3": "Sunshroom",
+    "Value 3": 6,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 5,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 2,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5,
+    "Mushroom 4": "Big Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 6,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 7
+  },
+  {
+    "Area Number": 8,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 9,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 2,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5,
+    "Mushroom 4": "Big Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 10
+  },
+  {
+    "Area Number": 11,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Ironshroom",
+    "Value 5": 3
+  },
+  {
+    "Area Number": 12,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 13,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  },
+  {
+    "Area Number": 14,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 15,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 16,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 17,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 3,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Zapshroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 18,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1.5,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 19,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  },
+  {
+    "Area Number": 20,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 3,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 1,
+    "Mushroom 4": "Zapshroom",
+    "Value 4": 10,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 21,
+    "Mushroom 1": "Zapshroom",
+    "Value 1": 20,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 22,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 3,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 1,
+    "Mushroom 4": "Zapshroom",
+    "Value 4": 10,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 23,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1.5,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 24,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 3,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 25
+  },
+  {
+    "Area Number": 26,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 27,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 5,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 5,
+    "Mushroom 4": "Hylian Shroom",
+    "Value 4": 3,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 28,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 2,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 0.5
+  },
+  {
+    "Area Number": 29,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 0.5,
+    "Mushroom 3": "Ironshroom",
+    "Value 3": 1.5
+  },
+  {
+    "Area Number": 30,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 3,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 1,
+    "Mushroom 4": "Zapshroom",
+    "Value 4": 10,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 31,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1.5,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 32,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 33,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Silent Shroom",
+    "Value 3": 3,
+    "Mushroom 4": "Razorshroom",
+    "Value 4": 1,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 34,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 4,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 35,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 36,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 3,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 37
+  },
+  {
+    "Area Number": 38,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 10,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 39,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 2,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5,
+    "Mushroom 4": "Big Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 40,
+    "Mushroom 1": "Zapshroom",
+    "Value 1": 20,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 41,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 42,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1.5,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 43
+  },
+  {
+    "Area Number": 44
+  },
+  {
+    "Area Number": 45,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 10,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 46,
+    "Mushroom 1": "Silent Shroom",
+    "Value 1": 0.30000001192092896,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 0.30000001192092896
+  },
+  {
+    "Area Number": 47,
+    "Mushroom 1": "Silent Shroom",
+    "Value 1": 0.30000001192092896,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 0.30000001192092896
+  },
+  {
+    "Area Number": 48,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Chillshroom",
+    "Value 2": 2,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5,
+    "Mushroom 4": "Big Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 49,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  },
+  {
+    "Area Number": 50
+  },
+  {
+    "Area Number": 51
+  },
+  {
+    "Area Number": 52
+  },
+  {
+    "Area Number": 53
+  },
+  {
+    "Area Number": 54
+  },
+  {
+    "Area Number": 55
+  },
+  {
+    "Area Number": 56,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 4,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 57
+  },
+  {
+    "Area Number": 58
+  },
+  {
+    "Area Number": 59,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 0.5,
+    "Mushroom 3": "Ironshroom",
+    "Value 3": 1.5
+  },
+  {
+    "Area Number": 60,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 5,
+    "Mushroom 3": "Silent Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Razorshroom",
+    "Value 4": 3,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 61,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 2,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 0.5,
+    "Mushroom 3": "Ironshroom",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 62
+  },
+  {
+    "Area Number": 63,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 64,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 65,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 66
+  },
+  {
+    "Area Number": 67
+  },
+  {
+    "Area Number": 68,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 0.800000011920929,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.20000000298023224
+  },
+  {
+    "Area Number": 69,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 3,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Zapshroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 70,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 71,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Silent Shroom",
+    "Value 3": 3,
+    "Mushroom 4": "Razorshroom",
+    "Value 4": 1,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 72,
+    "Mushroom 1": "Zapshroom",
+    "Value 1": 20,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 73,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Zapshroom",
+    "Value 2": 20,
+    "Mushroom 3": "Sunshroom",
+    "Value 3": 6,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5
+  },
+  {
+    "Area Number": 74,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 3,
+    "Mushroom 2": "Hylian Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hearty Truffle",
+    "Value 3": 0.5
+  },
+  {
+    "Area Number": 75,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Silent Shroom",
+    "Value 3": 3,
+    "Mushroom 4": "Razorshroom",
+    "Value 4": 1,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5,
+    "Mushroom 6": "Big Hearty Truffle",
+    "Value 6": 0.5
+  },
+  {
+    "Area Number": 76,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 77,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 78
+  },
+  {
+    "Area Number": 79,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 80,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 5,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 5,
+    "Mushroom 4": "Hylian Shroom",
+    "Value 4": 3,
+    "Mushroom 5": "Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 81,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 82,
+    "Mushroom 1": "Endura Shroom",
+    "Value 1": 4,
+    "Mushroom 2": "Stamella Shroom",
+    "Value 2": 8,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.30000001192092896
+  },
+  {
+    "Area Number": 83,
+    "Mushroom 1": "Hylian Shroom",
+    "Value 1": 1.5,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 84,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 0.800000011920929,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.20000000298023224
+  },
+  {
+    "Area Number": 85,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 5,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 4,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 86,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  },
+  {
+    "Area Number": 87,
+    "Mushroom 1": "Zapshroom",
+    "Value 1": 20,
+    "Mushroom 2": "Hearty Truffle",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 88,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 89,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 1,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 2,
+    "Mushroom 3": "Razorshroom",
+    "Value 3": 3,
+    "Mushroom 4": "Hearty Truffle",
+    "Value 4": 0.5,
+    "Mushroom 5": "Big Hearty Truffle",
+    "Value 5": 0.5
+  },
+  {
+    "Area Number": 90
+  },
+  {
+    "Area Number": 91
+  },
+  {
+    "Area Number": 92
+  },
+  {
+    "Area Number": 93,
+    "Mushroom 1": "Stamella Shroom",
+    "Value 1": 7,
+    "Mushroom 2": "Silent Shroom",
+    "Value 2": 1,
+    "Mushroom 3": "Hylian Shroom",
+    "Value 3": 1,
+    "Mushroom 4": "Ironshroom",
+    "Value 4": 2
+  }
+]
