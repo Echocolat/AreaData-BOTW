@@ -9,7 +9,7 @@ def get_climate_data():
     climate_data = []
 
     for area_data in all_area_data:
-        climate_data.append({"Area Number":area_data['AreaNumber'],"Area Name":area_data['Area'],"Climate":area_data['Climate']})
+        climate_data.append({"Area Number":area_data['AreaNumber'],"Area Name":area_data['Area'],"EnvSound":area_data['EnvSound'],"Climate":area_data['Climate']})
 
     return climate_data
 

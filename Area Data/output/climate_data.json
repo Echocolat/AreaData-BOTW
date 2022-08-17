@@ -2,471 +2,565 @@
   {
     "Area Number": 0,
     "Area Name": "GerudoHighlands",
+    "EnvSound": "Arctic",
     "Climate": "GerudoFrostClimate"
   },
   {
     "Area Number": 1,
     "Area Name": "WestHateru",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 2,
     "Area Name": "TamulPlateau",
+    "EnvSound": "Temperate",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 3,
     "Area Name": "HeburaMountains",
+    "EnvSound": "Arctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 4,
     "Area Name": "GerudoHighlands",
+    "EnvSound": "Subarctic",
     "Climate": "GerudoPlateauClimate"
   },
   {
     "Area Number": 5,
     "Area Name": "HeburaMountains",
+    "EnvSound": "Arctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 6,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 7,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 8,
     "Area Name": "HyruleForest",
+    "EnvSound": "Arctic",
     "Climate": "LostWoodClimate"
   },
   {
     "Area Number": 9,
     "Area Name": "HeburaMountains",
+    "EnvSound": "Arctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 10,
     "Area Name": "HyliaLake",
+    "EnvSound": "WetTemperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 11,
     "Area Name": "LanayruWaterSources",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 12,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 13,
     "Area Name": "EastHateru",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 14,
     "Area Name": "HyruleForest",
+    "EnvSound": "Subtoropical",
     "Climate": "KorogForest"
   },
   {
     "Area Number": 15,
     "Area Name": "EldinMountains",
+    "EnvSound": "Temperate",
     "Climate": "NorthHyrulePlainClimate"
   },
   {
     "Area Number": 16,
     "Area Name": "HyruleForest",
+    "EnvSound": "Temperate",
     "Climate": "NorthHyrulePlainClimate"
   },
   {
     "Area Number": 17,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 18,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "TabantaAridClimate"
   },
   {
     "Area Number": 19,
     "Area Name": "WestHateru",
+    "EnvSound": "Subtoropical",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 20,
     "Area Name": "TamulOutback",
+    "EnvSound": "Subarctic",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 21,
     "Area Name": "GerudoDesert",
+    "EnvSound": "Ard",
     "Climate": "GerudoDesertClimateLv2"
   },
   {
     "Area Number": 22,
     "Area Name": "TamulOutback",
+    "EnvSound": "Subarctic",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 23,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "TabantaAridClimate"
   },
   {
     "Area Number": 24,
     "Area Name": "FironeGrassland",
+    "EnvSound": "Tropical",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 25,
     "Area Name": "FironeGrassland",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 26,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "NorthHyrulePlainClimate"
   },
   {
     "Area Number": 27,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 28,
     "Area Name": "HateruSea",
+    "EnvSound": "Tropical",
     "Climate": "SouthHateruHumidTemperateClimate"
   },
   {
     "Area Number": 29,
     "Area Name": "FironeGrassland",
+    "EnvSound": "WetSubtropical",
     "Climate": "FiloneSubtropicalClimate"
   },
   {
     "Area Number": 30,
     "Area Name": "TamulSea",
+    "EnvSound": "Subarctic",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 31,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 32,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 33,
     "Area Name": "TamulPlateau",
+    "EnvSound": "Temperate",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 34,
     "Area Name": "LanayruWaterSources",
+    "EnvSound": "WetTemperate",
     "Climate": "ZoraTemperateClimate"
   },
   {
     "Area Number": 35,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 36,
     "Area Name": "FironeGrassland",
+    "EnvSound": "WetTemperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 37,
     "Area Name": "HeburaMountains",
+    "EnvSound": "Arctic",
     "Climate": "TabantaAridClimate"
   },
   {
     "Area Number": 38,
     "Area Name": "LiveMountain",
+    "EnvSound": "Arctic",
     "Climate": "FrostClimate"
   },
   {
     "Area Number": 39,
     "Area Name": "HeburaMountains",
+    "EnvSound": "Arctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 40,
     "Area Name": "GerudoDesert",
+    "EnvSound": "Ard",
     "Climate": "GerudoDesertClimateLv2"
   },
   {
     "Area Number": 41,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 42,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "TabantaAridClimate"
   },
   {
     "Area Number": 43,
     "Area Name": "HateruSea",
+    "EnvSound": "Tropical",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 44,
     "Area Name": "DeathMountain",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv2"
   },
   {
     "Area Number": 45,
     "Area Name": "GerudoHighlands",
+    "EnvSound": "Arctic",
     "Climate": "GerudoFrostClimate"
   },
   {
     "Area Number": 46,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 47,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Arctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 48,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Arctic",
     "Climate": "HebraFrostClimate"
   },
   {
     "Area Number": 49,
     "Area Name": "WestHateru",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 50,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 51,
     "Area Name": "EldinMountains",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 52,
     "Area Name": "EldinMountains",
+    "EnvSound": "Ard",
     "Climate": "NorthHyrulePlainClimate"
   },
   {
     "Area Number": 53,
     "Area Name": "EldinMountains",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 54,
     "Area Name": "TamulSea",
+    "EnvSound": "Subarctic",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 55,
     "Area Name": "FironeSea",
+    "EnvSound": "Tropical",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 56,
     "Area Name": "TamulPlateau",
+    "EnvSound": "Temperate",
     "Climate": "ZoraTemperateClimate"
   },
   {
     "Area Number": 57,
     "Area Name": "LanayruSea",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 58,
     "Area Name": "HateruSea",
+    "EnvSound": "Tropical",
     "Climate": "SouthHateruHumidTemperateClimate"
   },
   {
     "Area Number": 59,
     "Area Name": "WestHateru",
+    "EnvSound": "WetSubtropical",
     "Climate": "FiloneSubtropicalClimate"
   },
   {
     "Area Number": 60,
     "Area Name": "HyruleForest",
+    "EnvSound": "Temperate",
     "Climate": "NorthHyrulePlainClimate"
   },
   {
     "Area Number": 61,
     "Area Name": "EastHateru",
+    "EnvSound": "WetTemperate",
     "Climate": "SouthHateruHumidTemperateClimate"
   },
   {
     "Area Number": 62,
     "Area Name": "EastHateru",
+    "EnvSound": "Tropical",
     "Climate": "SouthHateruHumidTemperateClimate"
   },
   {
     "Area Number": 63,
     "Area Name": "HyruleHill",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 64,
     "Area Name": "HyruleHill",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 65,
     "Area Name": "LanayruWetlands",
+    "EnvSound": "WetTemperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 66,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv1"
   },
   {
     "Area Number": 67,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv2"
   },
   {
     "Area Number": 68,
     "Area Name": "LanayruWaterSources",
+    "EnvSound": "WetTemperate",
     "Climate": "ZoraTemperateClimate"
   },
   {
     "Area Number": 69,
     "Area Name": "LanayruWetlands",
+    "EnvSound": "Tropical",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 70,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 71,
     "Area Name": "TamulPlateau",
+    "EnvSound": "Temperate",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 72,
     "Area Name": "GerudoDesert",
+    "EnvSound": "Ard",
     "Climate": "GerudoDesertClimate"
   },
   {
     "Area Number": 73,
     "Area Name": "GerudoHighlands",
+    "EnvSound": "Subarctic",
     "Climate": "GerudoPlateauClimate"
   },
   {
     "Area Number": 74,
     "Area Name": "FironeGrassland",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 75,
     "Area Name": "TamulPlateau",
+    "EnvSound": "Temperate",
     "Climate": "TamourPlainClimate"
   },
   {
     "Area Number": 76,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 77,
     "Area Name": "HyruleHill",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 78,
     "Area Name": "EastHateru",
+    "EnvSound": "WetTemperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 79,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 80,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 81,
     "Area Name": "HyruleHill",
+    "EnvSound": "Subarctic",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 82,
     "Area Name": "CentralHyrule",
+    "EnvSound": "Temperate",
     "Climate": "HyrulePlainClimate"
   },
   {
     "Area Number": 83,
     "Area Name": "TabantaFrontier",
+    "EnvSound": "Subarctic",
     "Climate": "TabantaAridClimate"
   },
   {
     "Area Number": 84,
     "Area Name": "LanayruWaterSources",
+    "EnvSound": "WetTemperate",
     "Climate": "ZoraTemperateClimate"
   },
   {
     "Area Number": 85,
     "Area Name": "LanayruWaterSources",
+    "EnvSound": "WetTemperate",
     "Climate": "ZoraTemperateClimate"
   },
   {
     "Area Number": 86,
     "Area Name": "EastHateru",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 87,
     "Area Name": "GerudoDesert",
+    "EnvSound": "Ard",
     "Climate": "GerudoDesertClimate"
   },
   {
     "Area Number": 88,
     "Area Name": "HyruleForest",
+    "EnvSound": "Temperate",
     "Climate": "DarkWoodsClimat"
   },
   {
     "Area Number": 89,
     "Area Name": "EldinMountains",
+    "EnvSound": "Temperate",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 90,
     "Area Name": "FironeGrassland",
+    "EnvSound": "Tropical",
     "Climate": "HateruPlainClimate"
   },
   {
     "Area Number": 91,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 92,
     "Area Name": "EldinCanyon",
+    "EnvSound": "Ard",
     "Climate": "EldinClimateLv0"
   },
   {
     "Area Number": 93,
     "Area Name": "WestHateru",
+    "EnvSound": "Temperate",
     "Climate": "HateruPlainClimate"
   }
 ]
