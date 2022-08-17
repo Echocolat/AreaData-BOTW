@@ -1,0 +1,796 @@
+[
+  {
+    "Area Number": 0,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 1,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 2,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 3,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 4,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 30,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 5,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 6,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 7,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 8,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 9,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 10,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 11,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 12,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 13,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 14,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 15,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 16,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 17,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 18,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 19,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 20,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 21,
+    "Material 1": "Hightail Lizard",
+    "Value 1": 50,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 22,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 23,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 24,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 25,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 26,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 27,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 28,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 29,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 30,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 31,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 32,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 33,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 34,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 35,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 36,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 37,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 38,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 39,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 40,
+    "Material 1": "Hightail Lizard",
+    "Value 1": 50,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 41,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 42,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 43,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 44,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 45,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 30,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 46,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20
+  },
+  {
+    "Area Number": 47,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20
+  },
+  {
+    "Area Number": 48,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 49,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 50,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20
+  },
+  {
+    "Area Number": 51,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 52,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 53,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 54,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 55,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 56,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 57,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 58,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 59,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 60,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 61,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 62,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 63,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 64,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 65,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 66,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 67,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 68,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 69,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 70,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 71,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 72,
+    "Material 1": "Hightail Lizard",
+    "Value 1": 50,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 73,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 30,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 74,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 75,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 76,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 77,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 78,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 79,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 80,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Fairy",
+    "Value 2": 10
+  },
+  {
+    "Area Number": 81,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 82,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 83,
+    "Material 1": "Hot-Footed Frog",
+    "Value 1": 120,
+    "Material 2": "Tabantha Wheat",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 84,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 85,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 86,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hylian Rice",
+    "Value 2": 50,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 87,
+    "Material 1": "Hightail Lizard",
+    "Value 1": 50,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 88,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 89,
+    "Material 1": "Restless Cricket",
+    "Value 1": 150,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 30,
+    "Material 3": "Fairy",
+    "Value 3": 20
+  },
+  {
+    "Area Number": 90,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hot-Footed Frog",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  },
+  {
+    "Area Number": 91,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 92,
+    "Material 1": "Amber",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 93,
+    "Material 1": "Restless Cricket",
+    "Value 1": 100,
+    "Material 2": "Hightail Lizard",
+    "Value 2": 20,
+    "Material 3": "Fairy",
+    "Value 3": 10
+  }
+]
