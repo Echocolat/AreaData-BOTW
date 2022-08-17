@@ -1,0 +1,962 @@
+[
+  {
+    "Area Number": 0,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1.2,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 1,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 3,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 4,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 5,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "BrokenSnowBall",
+    "Auto Placement Material Value 2": 3,
+    "Auto Placement Material 3": "Tree Branch",
+    "Auto Placement Material Value 3": 1
+  },
+  {
+    "Area Number": 6,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 7,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 9,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 10,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 11,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 12,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 13,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 14,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 15,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 16,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 17,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 3,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 18,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 19,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 20,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 21,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 22,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 23,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 24,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 25,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 26,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 27,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 28,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 29,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 30,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 31,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 32,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 33,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 34,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 35,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 36,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 37,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 38,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1.2,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 39,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 40,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 41,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 42,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 43,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 44,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 45,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1.2,
+    "Auto Placement Material 1": "BrokenSnowBall",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 46,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 47,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 48,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 49,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 50,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 51,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 52,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 53,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 54,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 55,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 56,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 57,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 58,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 59,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 60,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 61,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 62,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 63,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 64,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 4,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 2,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 65,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 66,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 67,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 68,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 69,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 3,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 70,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 1
+  },
+  {
+    "Area Number": 71,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 72,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 73,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 74,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Tree Branch",
+    "Auto Placement Material Value 4": 5
+  },
+  {
+    "Area Number": 75,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 76,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 77,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 4,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 2,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 78,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 79,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 80,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 81,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 82,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 5,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 3,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 83,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 1,
+    "Cliff Material 2": "Swift Violet",
+    "Cliff Material Value 2": 1,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 84,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 85,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 86,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  },
+  {
+    "Area Number": 87,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 2,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 88,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 89,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 5,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 10,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 3,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 1
+  },
+  {
+    "Area Number": 90,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 91,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 92,
+    "Cliff Material 1": "Swift Violet",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 1,
+    "Auto Placement Material 2": "Tree Branch",
+    "Auto Placement Material Value 2": 1
+  },
+  {
+    "Area Number": 93,
+    "Cliff Material 1": "Rushroom",
+    "Cliff Material Value 1": 0.8,
+    "Auto Placement Material 1": "Acorn",
+    "Auto Placement Material Value 1": 10,
+    "Auto Placement Material 2": "Hearty Truffle",
+    "Auto Placement Material Value 2": 2,
+    "Auto Placement Material 3": "Chickaloo Tree Nut",
+    "Auto Placement Material Value 3": 5,
+    "Auto Placement Material 4": "Big Hearty Truffle",
+    "Auto Placement Material Value 4": 1,
+    "Auto Placement Material 5": "Tree Branch",
+    "Auto Placement Material Value 5": 3
+  }
+]
