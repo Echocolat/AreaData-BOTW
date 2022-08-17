@@ -1,0 +1,402 @@
+[
+  {
+    "Area Number": 0,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 1
+  },
+  {
+    "Area Number": 2,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 3,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 4,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 5,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 6,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 7
+  },
+  {
+    "Area Number": 8
+  },
+  {
+    "Area Number": 9,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 10
+  },
+  {
+    "Area Number": 11
+  },
+  {
+    "Area Number": 12,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 13
+  },
+  {
+    "Area Number": 14
+  },
+  {
+    "Area Number": 15
+  },
+  {
+    "Area Number": 16
+  },
+  {
+    "Area Number": 17,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 18,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 5
+  },
+  {
+    "Area Number": 19
+  },
+  {
+    "Area Number": 20,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 3
+  },
+  {
+    "Area Number": 21,
+    "Fruit 1": "Voltfruit",
+    "Value 1": 11,
+    "Fruit 2": "Hydromelon",
+    "Value 2": 11
+  },
+  {
+    "Area Number": 22,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 3
+  },
+  {
+    "Area Number": 23,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 5
+  },
+  {
+    "Area Number": 24
+  },
+  {
+    "Area Number": 25
+  },
+  {
+    "Area Number": 26,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 27
+  },
+  {
+    "Area Number": 28,
+    "Fruit 1": "Mighty Bananas",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 29
+  },
+  {
+    "Area Number": 30,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 31,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 5
+  },
+  {
+    "Area Number": 32,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 33,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 34
+  },
+  {
+    "Area Number": 35,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 36
+  },
+  {
+    "Area Number": 37
+  },
+  {
+    "Area Number": 38,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 39,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 40,
+    "Fruit 1": "Voltfruit",
+    "Value 1": 11,
+    "Fruit 2": "Hydromelon",
+    "Value 2": 11
+  },
+  {
+    "Area Number": 41,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 42,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 5
+  },
+  {
+    "Area Number": 43
+  },
+  {
+    "Area Number": 44
+  },
+  {
+    "Area Number": 45,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 46
+  },
+  {
+    "Area Number": 47
+  },
+  {
+    "Area Number": 48,
+    "Fruit 1": "Wildberry",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 49
+  },
+  {
+    "Area Number": 50
+  },
+  {
+    "Area Number": 51
+  },
+  {
+    "Area Number": 52
+  },
+  {
+    "Area Number": 53
+  },
+  {
+    "Area Number": 54,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 55
+  },
+  {
+    "Area Number": 56
+  },
+  {
+    "Area Number": 57
+  },
+  {
+    "Area Number": 58,
+    "Fruit 1": "Mighty Bananas",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 59,
+    "Fruit 1": "Mighty Bananas",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 60
+  },
+  {
+    "Area Number": 61
+  },
+  {
+    "Area Number": 62,
+    "Fruit 1": "Mighty Bananas",
+    "Value 1": 10
+  },
+  {
+    "Area Number": 63,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 64,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 65,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 66
+  },
+  {
+    "Area Number": 67
+  },
+  {
+    "Area Number": 68
+  },
+  {
+    "Area Number": 69
+  },
+  {
+    "Area Number": 70,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 71,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 72,
+    "Fruit 1": "Voltfruit",
+    "Value 1": 11,
+    "Fruit 2": "Hydromelon",
+    "Value 2": 11
+  },
+  {
+    "Area Number": 73,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 74
+  },
+  {
+    "Area Number": 75,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1.5
+  },
+  {
+    "Area Number": 76,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 77,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 78,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 79,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 80
+  },
+  {
+    "Area Number": 81,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 82,
+    "Fruit 1": "Spicy Pepper",
+    "Value 1": 1
+  },
+  {
+    "Area Number": 83,
+    "Fruit 1": "Wildberry",
+    "Value 1": 10,
+    "Fruit 2": "Spicy Pepper",
+    "Value 2": 5
+  },
+  {
+    "Area Number": 84
+  },
+  {
+    "Area Number": 85
+  },
+  {
+    "Area Number": 86
+  },
+  {
+    "Area Number": 87,
+    "Fruit 1": "Voltfruit",
+    "Value 1": 11,
+    "Fruit 2": "Hydromelon",
+    "Value 2": 11
+  },
+  {
+    "Area Number": 88
+  },
+  {
+    "Area Number": 89
+  },
+  {
+    "Area Number": 90
+  },
+  {
+    "Area Number": 91
+  },
+  {
+    "Area Number": 92
+  },
+  {
+    "Area Number": 93
+  }
+]
