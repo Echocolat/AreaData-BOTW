@@ -1,0 +1,720 @@
+[
+  {
+    "Area Number": 0,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 4
+  },
+  {
+    "Area Number": 1,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 2,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 3,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 4
+  },
+  {
+    "Area Number": 5,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 6,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 7,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 2,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 6
+  },
+  {
+    "Area Number": 8,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 9,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 10
+  },
+  {
+    "Area Number": 11,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8
+  },
+  {
+    "Area Number": 12,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 13,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 14,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 15,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 16,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 17,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Electric Safflina",
+    "Value 3": 4,
+    "Plant 4": "Hearty Radish",
+    "Value 4": 8,
+    "Plant 5": "Armoranth",
+    "Value 5": 10,
+    "Plant 6": "Big Hearty Radish",
+    "Value 6": 1
+  },
+  {
+    "Area Number": 18,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 7,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 1,
+    "Plant 3": "Big Hearty Radish",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 19,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 20,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 21,
+    "Plant 1": "Electric Safflina",
+    "Value 1": 4,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 4
+  },
+  {
+    "Area Number": 22,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 23,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 7,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 1,
+    "Plant 3": "Big Hearty Radish",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 24,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 25
+  },
+  {
+    "Area Number": 26,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 27,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 3
+  },
+  {
+    "Area Number": 28,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 6,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 3,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 29,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 12,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1.5,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 30,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 31,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 7,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 1,
+    "Plant 3": "Big Hearty Radish",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 32,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 33,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 34,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 5,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 35,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 36,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 37
+  },
+  {
+    "Area Number": 38,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 4
+  },
+  {
+    "Area Number": 39,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 40,
+    "Plant 1": "Electric Safflina",
+    "Value 1": 4,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 4
+  },
+  {
+    "Area Number": 41,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 7,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8,
+    "Plant 4": "Armoranth",
+    "Value 4": 10,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 42,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 7,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 1,
+    "Plant 3": "Big Hearty Radish",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 43
+  },
+  {
+    "Area Number": 44
+  },
+  {
+    "Area Number": 45,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 4
+  },
+  {
+    "Area Number": 46
+  },
+  {
+    "Area Number": 47
+  },
+  {
+    "Area Number": 48,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 49,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 50
+  },
+  {
+    "Area Number": 51,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 2,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 6
+  },
+  {
+    "Area Number": 52
+  },
+  {
+    "Area Number": 53
+  },
+  {
+    "Area Number": 54
+  },
+  {
+    "Area Number": 55
+  },
+  {
+    "Area Number": 56,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 5,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 57
+  },
+  {
+    "Area Number": 58
+  },
+  {
+    "Area Number": 59,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 12,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1.5,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 60,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 8
+  },
+  {
+    "Area Number": 61,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 6,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 3,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 62,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 63,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 64,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 7,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8,
+    "Plant 4": "Armoranth",
+    "Value 4": 10,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 65,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 7,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8,
+    "Plant 4": "Armoranth",
+    "Value 4": 10,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 66
+  },
+  {
+    "Area Number": 67
+  },
+  {
+    "Area Number": 68,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 5,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 69,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 7,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8,
+    "Plant 4": "Armoranth",
+    "Value 4": 10,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 70,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 71,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 72,
+    "Plant 1": "Electric Safflina",
+    "Value 1": 4,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 4
+  },
+  {
+    "Area Number": 73
+  },
+  {
+    "Area Number": 74,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 75,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 8,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 5,
+    "Plant 3": "Armoranth",
+    "Value 3": 15,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 76,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 77,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 7,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 8,
+    "Plant 4": "Armoranth",
+    "Value 4": 10,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 78,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 79,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 80,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 3
+  },
+  {
+    "Area Number": 81,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 82,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 4,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 9,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 6,
+    "Plant 4": "Armoranth",
+    "Value 4": 15,
+    "Plant 5": "Big Hearty Radish",
+    "Value 5": 1
+  },
+  {
+    "Area Number": 83,
+    "Plant 1": "Cool Safflina",
+    "Value 1": 7,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 1,
+    "Plant 3": "Big Hearty Radish",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 84,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 5,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 85,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 5,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 4,
+    "Plant 3": "Hearty Radish",
+    "Value 3": 1,
+    "Plant 4": "Big Hearty Radish",
+    "Value 4": 1
+  },
+  {
+    "Area Number": 86,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 87,
+    "Plant 1": "Electric Safflina",
+    "Value 1": 4,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 4
+  },
+  {
+    "Area Number": 88,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 89,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 6
+  },
+  {
+    "Area Number": 90,
+    "Plant 1": "Mighty Thistle",
+    "Value 1": 15,
+    "Plant 2": "Hearty Radish",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 91
+  },
+  {
+    "Area Number": 92,
+    "Plant 1": "Hyrule Herb",
+    "Value 1": 2,
+    "Plant 2": "Warm Safflina",
+    "Value 2": 6
+  },
+  {
+    "Area Number": 93,
+    "Plant 1": "Blue Nightshade",
+    "Value 1": 3,
+    "Plant 2": "Hyrule Herb",
+    "Value 2": 1
+  }
+]
