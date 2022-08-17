@@ -1,0 +1,818 @@
+[
+  {
+    "Area Number": 0
+  },
+  {
+    "Area Number": 1,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 2,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 3,
+    "Fish 1": "Chillfin Trout",
+    "Value 1": 12,
+    "Fish 2": "Hearty Salmon",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 4
+  },
+  {
+    "Area Number": 5,
+    "Fish 1": "Chillfin Trout",
+    "Value 1": 12,
+    "Fish 2": "Hearty Salmon",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 6,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 7,
+    "Fish 1": "Sizzlefin Trout",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 8,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 9,
+    "Fish 1": "Chillfin Trout",
+    "Value 1": 12,
+    "Fish 2": "Hearty Salmon",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 10,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 11,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Mighty Carp",
+    "Value 2": 3,
+    "Fish 3": "Hyrule Bass",
+    "Value 3": 20,
+    "Fish 4": "Armored Carp",
+    "Value 4": 5
+  },
+  {
+    "Area Number": 12,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 13,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 14,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 15,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 16,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 17,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Voltfin Trout",
+    "Value 3": 5,
+    "Fish 4": "Hearty Bass",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 18,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 19,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 20,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 21
+  },
+  {
+    "Area Number": 22,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 23,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 24
+  },
+  {
+    "Area Number": 25,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 26,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 27
+  },
+  {
+    "Area Number": 28,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Ironshell Crab",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 29,
+    "Fish 1": "Hyrule Bass",
+    "Value 1": 15,
+    "Fish 2": "Hearty Bass",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 30,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 31,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 32,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 33,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 34,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Voltfin Trout",
+    "Value 5": 5,
+    "Fish 6": "Hearty Bass",
+    "Value 6": 1,
+    "Fish 7": "Armored Carp",
+    "Value 7": 5
+  },
+  {
+    "Area Number": 35,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 36
+  },
+  {
+    "Area Number": 37
+  },
+  {
+    "Area Number": 38
+  },
+  {
+    "Area Number": 39,
+    "Fish 1": "Chillfin Trout",
+    "Value 1": 12,
+    "Fish 2": "Hearty Salmon",
+    "Value 2": 1
+  },
+  {
+    "Area Number": 40
+  },
+  {
+    "Area Number": 41,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 42,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 43,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Mighty Porgy",
+    "Value 2": 20,
+    "Fish 3": "Hearty Blueshell Snail",
+    "Value 3": 2,
+    "Fish 4": "Ironshell Crab",
+    "Value 4": 2,
+    "Fish 5": "Armored Porgy",
+    "Value 5": 20
+  },
+  {
+    "Area Number": 44
+  },
+  {
+    "Area Number": 45
+  },
+  {
+    "Area Number": 46,
+    "Fish 1": "Hyrule Bass",
+    "Value 1": 20
+  },
+  {
+    "Area Number": 47
+  },
+  {
+    "Area Number": 48,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 49,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 50,
+    "Fish 1": "Hyrule Bass",
+    "Value 1": 20
+  },
+  {
+    "Area Number": 51,
+    "Fish 1": "Sizzlefin Trout",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 52
+  },
+  {
+    "Area Number": 53
+  },
+  {
+    "Area Number": 54,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Mighty Porgy",
+    "Value 2": 20,
+    "Fish 3": "Hearty Blueshell Snail",
+    "Value 3": 2,
+    "Fish 4": "Ironshell Crab",
+    "Value 4": 2,
+    "Fish 5": "Armored Porgy",
+    "Value 5": 20
+  },
+  {
+    "Area Number": 55,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Mighty Porgy",
+    "Value 2": 20,
+    "Fish 3": "Hearty Blueshell Snail",
+    "Value 3": 2,
+    "Fish 4": "Ironshell Crab",
+    "Value 4": 2,
+    "Fish 5": "Armored Porgy",
+    "Value 5": 20
+  },
+  {
+    "Area Number": 56,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Voltfin Trout",
+    "Value 5": 5,
+    "Fish 6": "Hearty Bass",
+    "Value 6": 1,
+    "Fish 7": "Armored Carp",
+    "Value 7": 5
+  },
+  {
+    "Area Number": 57,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Mighty Porgy",
+    "Value 2": 20,
+    "Fish 3": "Hearty Blueshell Snail",
+    "Value 3": 2,
+    "Fish 4": "Ironshell Crab",
+    "Value 4": 2,
+    "Fish 5": "Armored Porgy",
+    "Value 5": 20
+  },
+  {
+    "Area Number": 58,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Mighty Porgy",
+    "Value 2": 20,
+    "Fish 3": "Hearty Blueshell Snail",
+    "Value 3": 2,
+    "Fish 4": "Ironshell Crab",
+    "Value 4": 2,
+    "Fish 5": "Armored Porgy",
+    "Value 5": 20
+  },
+  {
+    "Area Number": 59,
+    "Fish 1": "Hyrule Bass",
+    "Value 1": 15,
+    "Fish 2": "Hearty Bass",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 60,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 61,
+    "Fish 1": "Hyrule Bass",
+    "Value 1": 15,
+    "Fish 2": "Hearty Bass",
+    "Value 2": 3
+  },
+  {
+    "Area Number": 62,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Ironshell Crab",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 63,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 10,
+    "Fish 3": "Hyrule Bass",
+    "Value 3": 10,
+    "Fish 4": "Voltfin Trout",
+    "Value 4": 20,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3
+  },
+  {
+    "Area Number": 64
+  },
+  {
+    "Area Number": 65,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 66
+  },
+  {
+    "Area Number": 67
+  },
+  {
+    "Area Number": 68,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Voltfin Trout",
+    "Value 5": 5,
+    "Fish 6": "Hearty Bass",
+    "Value 6": 1,
+    "Fish 7": "Armored Carp",
+    "Value 7": 5
+  },
+  {
+    "Area Number": 69,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Voltfin Trout",
+    "Value 3": 5,
+    "Fish 4": "Hearty Bass",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 70,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 71,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 72
+  },
+  {
+    "Area Number": 73
+  },
+  {
+    "Area Number": 74
+  },
+  {
+    "Area Number": 75,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 4,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 15,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3,
+    "Fish 6": "Armored Carp",
+    "Value 6": 3
+  },
+  {
+    "Area Number": 76,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 77
+  },
+  {
+    "Area Number": 78,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Ironshell Crab",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 79,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 80
+  },
+  {
+    "Area Number": 81,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 10,
+    "Fish 3": "Hyrule Bass",
+    "Value 3": 10,
+    "Fish 4": "Voltfin Trout",
+    "Value 4": 20,
+    "Fish 5": "Hearty Bass",
+    "Value 5": 3
+  },
+  {
+    "Area Number": 82,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Hyrule Bass",
+    "Value 2": 20,
+    "Fish 3": "Hearty Bass",
+    "Value 3": 2
+  },
+  {
+    "Area Number": 83,
+    "Fish 1": "Voltfin Trout",
+    "Value 1": 15,
+    "Fish 2": "Chillfin Trout",
+    "Value 2": 8,
+    "Fish 3": "Hearty Salmon",
+    "Value 3": 1
+  },
+  {
+    "Area Number": 84,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Voltfin Trout",
+    "Value 5": 5,
+    "Fish 6": "Hearty Bass",
+    "Value 6": 1,
+    "Fish 7": "Armored Carp",
+    "Value 7": 5
+  },
+  {
+    "Area Number": 85,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 5,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Voltfin Trout",
+    "Value 5": 5,
+    "Fish 6": "Hearty Bass",
+    "Value 6": 1,
+    "Fish 7": "Armored Carp",
+    "Value 7": 5
+  },
+  {
+    "Area Number": 86,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  },
+  {
+    "Area Number": 87
+  },
+  {
+    "Area Number": 88,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 89,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 2,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 5,
+    "Fish 3": "Stealthfin Trout",
+    "Value 3": 20,
+    "Fish 4": "Mighty Carp",
+    "Value 4": 3
+  },
+  {
+    "Area Number": 90,
+    "Fish 1": "Razorclaw Crab",
+    "Value 1": 2,
+    "Fish 2": "Ironshell Crab",
+    "Value 2": 2
+  },
+  {
+    "Area Number": 91,
+    "Fish 1": "Sizzlefin Trout",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 92,
+    "Fish 1": "Sizzlefin Trout",
+    "Value 1": 15
+  },
+  {
+    "Area Number": 93,
+    "Fish 1": "Staminoka Bass",
+    "Value 1": 8,
+    "Fish 2": "Sneaky River Snail",
+    "Value 2": 3,
+    "Fish 3": "Mighty Carp",
+    "Value 3": 3,
+    "Fish 4": "Hyrule Bass",
+    "Value 4": 20,
+    "Fish 5": "Armored Carp",
+    "Value 5": 5
+  }
+]
